@@ -1,7 +1,7 @@
-# [Gaétan de Lorgeril]
+# Gaétan de Lorgeril
 
-**[Aspiring Full-stack Web3 developer | Ex-Nuclear Engineer]**
-*“[Learning all the full-stack developer skills within the Metana bootcamp]”*
+**Aspiring Full-stack Web3 developer | Ex-Nuclear Engineer**
+*“Learning all the full-stack developer skills within the Metana bootcamp”*
 
 ![Profile Badge](https://img.shields.io/badge/-GitHub_Profile-blue?style=for-the-badge&logo=github)
 
