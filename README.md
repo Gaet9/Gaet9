@@ -7,12 +7,12 @@
 
 ## About Me 👋
 
-Hi there! I'm a [Aspiring Full-Stack Web3 developer], passionate about [modern web technologies such as AI and Blockchain].
+Hi there! I'm a Aspiring Full-Stack Web3 developer, passionate about modern web technologies such as AI and Blockchain.
 I come from the nuclear industry in which I have worked in design and in the control room.
-- 💼 **Current Role**: [Student at Metana, Full-Stack web developer]
-- 🎓 **Education**: [Master degree in nuclear engineering]
-- 🌱 **Currently Learning**: [Full stack web development]
-- 🛠️ **Interests**: [Guitar, drums, travelling, cycling, running]
+- 💼 **Current Role**: Student at Metana, Full-Stack web developer
+- 🎓 **Education**: Master degree in nuclear engineering
+- 🌱 **Currently Learning**: Full stack web development
+- 🛠️ **Interests**: Guitar, drums, travelling, cycling, running
 
 ## Skills & Tools 🛠️
 
@@ -32,5 +32,5 @@ I come from the nuclear industry in which I have worked in design and in the con
 
 I’m always looking for exciting new projects to work on. If you’re interested in collaborating or have an opportunity in mind, feel free to reach out:
 
-- 📧 **Email**: [gaetan.delorgeril@gmail.com]
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/ga%C3%A9tan-de-lorgeril-167a36158/]
+- 📧 **Email**: gaetan.delorgeril@gmail.com
+- 💼 **LinkedIn**: https://www.linkedin.com/in/ga%C3%A9tan-de-lorgeril-167a36158/
