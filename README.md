@@ -1,9 +1,6 @@
 # Gaétan de Lorgeril
 
 **Aspiring Full-stack Web3 developer | Ex-Nuclear Engineer**
-*“Learning all the full-stack developer skills within the Metana bootcamp”*
-
-![Profile Badge](https://img.shields.io/badge/-GitHub_Profile-blue?style=for-the-badge&logo=github)
 
 ## About Me 👋
 
@@ -17,20 +14,37 @@ I come from the nuclear industry in which I have worked in design and in the con
 ## Skills & Tools 🛠️
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+<div style="display: flex; flex-direction: row">
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=html5" width="130" title="HTML5"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=css" width="130" title="CSS"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=javascript" width="130" title="JavaScript"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=typescript" width="130" title="TypeScript"/>
+</div>
+
 
 ### Frameworks
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+<div style="display: flex; flex-direction: row">
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=express" width="130" title="Express.js"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=node.js" width="130" title="Node.js"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=handlebars.js" width="130" title="Handlebars.js"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=ejs" width="130" title="EJS"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=react" width="130" title="React"/>
+</div>
 
 ### Tools
-![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+<div style="display: flex; flex-direction: row">
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=Git" width="130" title="Git"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=GitHub" width="130" title="GitHub"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=MongoDB" width="130" title="MongoDB"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=mongoosedotws" width="130" title="Mongoose"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=dotenv" width="130" title="dotenv"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=Postman" width="130" title="Postman"/>
+</div>
 
 ## Let’s Collaborate!
 
 I’m always looking for exciting new projects to work on. If you’re interested in collaborating or have an opportunity in mind, feel free to reach out:
 
-- 📧 **Email**: gaetan.delorgeril@gmail.com
-- 💼 **LinkedIn**: https://www.linkedin.com/in/ga%C3%A9tan-de-lorgeril-167a36158/
+- 📧 **Email**: gaetan.delorgeril@gmail.com<a href="https://www.linkedin.com/in/ga%C3%A9tan-de-lorgeril-167a36158/" target="_blank" title="Connect on LinkedIn">
+- 💼 [LinkedIn](https://www.linkedin.com/in/ga%C3%A9tan-de-lorgeril-167a36158/)
+
