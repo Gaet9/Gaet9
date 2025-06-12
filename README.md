@@ -39,6 +39,8 @@ I come from the nuclear industry in which I have worked in design and in the con
   <img src="https://img.shields.io/badge/-black?style=flat-square&logo=mongoosedotws" width="130" title="Mongoose"/>
   <img src="https://img.shields.io/badge/-black?style=flat-square&logo=dotenv" width="130" title="dotenv"/>
   <img src="https://img.shields.io/badge/-black?style=flat-square&logo=Postman" width="130" title="Postman"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=postgresql" width="130" title="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=mysql" width="130" title="MySQL"/>
 </div>
 
 ## Let’s Collaborate!
