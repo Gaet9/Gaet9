@@ -22,14 +22,19 @@ I come from the nuclear industry in which I have worked in design and in the con
 </div>
 
 
-### Frameworks
+### FrontEnd
 <div style="display: flex; flex-direction: row">
-  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=express" width="130" title="Express.js"/>
-  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=node.js" width="130" title="Node.js"/>
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=handlebars.js" width="130" title="Handlebars.js"/>
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=ejs" width="130" title="EJS"/>
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=react" width="130" title="React"/>
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=tailwindcss" width="130" title="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=vite" width="130" title="Vite"/>
+</div>
+
+### BackEnd
+<div style="display: flex; flex-direction: row">
+  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=express" width="130" title="Express.js"/>
+  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=node.js" width="130" title="Node.js"/>
 </div>
 
 ### Tools
