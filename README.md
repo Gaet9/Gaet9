@@ -1,6 +1,6 @@
 # Gaétan de Lorgeril
 
-**Aspiring Full-stack Web3 developer | Ex-Nuclear Engineer**
+**Full-stack developer | Nuclear Engineer**
 
 ## About Me 👋
 
