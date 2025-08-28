@@ -4,10 +4,10 @@
 
 ## About Me 👋
 
-Hi there! I'm a Aspiring Full-Stack Web3 developer, passionate about modern web technologies such as AI and Blockchain.
+Hi there! I'm a Full-Stack developer.
 I come from the nuclear industry in which I have worked in design and in the control room.
-- 💼 **Current Role**: Student at Metana, Full-Stack web developer
-- 🎓 **Education**: Master degree in nuclear engineering
+- 💼 **Current Role**: Full-Stack web developer
+- 🎓 **Education**: Master degree in nuclear engineering, coding bootcamp at Metana
 - 🌱 **Currently Learning**: Full stack web development
 - 🛠️ **Interests**: Guitar, drums, travelling, cycling, running
 
