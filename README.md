@@ -24,8 +24,6 @@ I come from the nuclear industry in which I have worked in design and in the con
 
 ### FrontEnd
 <div style="display: flex; flex-direction: row">
-  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=handlebars.js" width="100" title="Handlebars.js"/>
-  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=ejs" width="100" title="EJS"/>
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=react" width="100" title="React"/>
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=tailwindcss" width="100" title="TailwindCSS"/>
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=vite" width="100" title="Vite"/>
@@ -49,9 +47,7 @@ I come from the nuclear industry in which I have worked in design and in the con
 ### Database
 <div style="display: flex; flex-direction: row">
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=MongoDB" width="100" title="MongoDB"/>
-  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=mongoosedotws" width="100" title="Mongoose"/>
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=postgresql" width="100" title="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=mysql" width="100" title="MySQL"/>
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=supabase" width="100" title="Supabase"/>
 </div>
 
