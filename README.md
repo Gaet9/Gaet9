@@ -29,6 +29,7 @@ I come from the nuclear industry in which I have worked in design and in the con
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=react" width="100" title="React"/>
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=tailwindcss" width="100" title="TailwindCSS"/>
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=vite" width="100" title="Vite"/>
+  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=nextdotjs" width="100" title="Nextjs"/>
 </div>
 
 ### BackEnd
@@ -51,6 +52,7 @@ I come from the nuclear industry in which I have worked in design and in the con
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=mongoosedotws" width="100" title="Mongoose"/>
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=postgresql" width="100" title="PostgreSQL"/>
   <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=mysql" width="100" title="MySQL"/>
+  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=supabase" width="100" title="Supabase"/>
 </div>
 
 ### Testing
