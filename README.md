@@ -8,7 +8,7 @@ Hi there! I'm a Full-Stack developer.
 I come from the nuclear industry in which I have worked in design and in the control room.
 - 💼 **Current Role**: Full-Stack web developer
 - 🎓 **Education**: Master degree in nuclear engineering, coding bootcamp at Metana
-- 🌱 **Currently Learning**: Full stack web development
+- 🌱 **Currently Learning**: Openclaw, Next.js
 - 🛠️ **Interests**: Guitar, drums, travelling, cycling, running
 
 ## Skills & Tools 🛠️
