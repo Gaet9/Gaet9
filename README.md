@@ -13,7 +13,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=161b22:58a6ff,100:0d1117&height=48&section=header&text=About&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=28" width="100%" alt="About"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nuclear_Engineering-→-Web_Development-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Nuclear Engineering to Web Development"/>
+  <img src="https://img.shields.io/badge/Nuclear%20Engineering-%3E%20Web%20Development-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Nuclear Engineering to Web Development"/>
 </p>
 
 ```diff
