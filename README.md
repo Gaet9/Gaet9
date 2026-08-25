@@ -96,7 +96,7 @@
 
 <p align="center">
   <a href="https://github.com/Gaet9">
-    <img src="https://streak-stats.demolab.com/?user=Gaet9&theme=transparent&hide_border=true&background=0D1117&ring=58a6ff&fire=f0883e&currStreakLabel=8b949e&sideLabels=8b949e&dates=484f58" height="170" alt="GitHub streak"/>
+    <img src="./profile/streak.svg" height="170" alt="GitHub streak"/>
   </a>
 </p>
 
