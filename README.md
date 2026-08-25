@@ -185,6 +185,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=footer&fontSize=14&fontColor=8b949e&animation=twinkling&text=Thanks%20for%20stopping%20by%20%E2%80%94%20let%E2%80%99s%20make%20something%20great.&fontAlignY=65" width="100%" alt="Footer"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-0d1117?style=flat-square" alt="Made with love"/>
   <img src="https://img.shields.io/badge/Open%20to%20collaborate-3fb950?style=flat-square" alt="Open to collaborate"/>
 </p>
