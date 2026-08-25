@@ -51,7 +51,7 @@ Today I build full-stack web apps with a strong eye for **layout, flow, and deta
 
 <p align="center">
   <a href="https://github.com/gaetandelorgeril">
-    <img src="https://github-readme-stats.vercel.app/api?username=gaetandelorgeril&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&bg_color=0d1117&rank_icon=percentile" height="165" alt="GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gaet9&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&bg_color=0d1117&rank_icon=percentile" height="165" alt="GitHub stats"/>
   </a>
   <a href="https://github.com/gaetandelorgeril">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaetandelorgeril&theme=transparent&hide_border=true&background=0D1117&ring=58a6ff&fire=f0883e&currStreakLabel=8b949e&sideLabels=8b949e&dates=484f58" height="165" alt="GitHub streak"/>
